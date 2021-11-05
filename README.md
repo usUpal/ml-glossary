@@ -31,13 +31,13 @@ Some basic machine/ deep learning terminologies to revisit anytime.
 
 7. **Node:** A deep learning node is "a *computational unit* that has one or more weighted input connections, a transfer function that combines the inputs in some way, and an output connection. Nodes are then organized into layers to comprise a network
 
-8.  **Layer**: A neural network is made up of vertically stacked components called Layers.
+8. **Layer**: A neural network is made up of vertically stacked components called Layers.
 
-   1. a.    Input;
+   > a.    Input;
 
-      b.    Hidden;
+   > b.    Hidden;
 
-      c.    Output.
+   > c.    Output.
 
 9. **Autoencoder**: Autoencoder is an unsupervised artificial neural network that learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible. Autoencoder, by design, reduces data dimensions by learning how to ignore the noise in the data.
 
