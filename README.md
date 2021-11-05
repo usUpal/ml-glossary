@@ -13,21 +13,21 @@ Some basic machine/ deep learning terminologies to revisit anytime.
 
 5. **Learning Rate**: The learning rate is a hyperparameter that controls how much to change the model in response to the estimated error each time the model weights are updated. The “step size” for loss improvement during gradient descent.
 
-6.  **Activation function**: an activation function is a function that is added into an artificial neural network in order to help the network learn complex patterns in the data.
+6. **Activation function**: an activation function is a function that is added into an artificial neural network in order to help the network learn complex patterns in the data.
 
-   1. a.    Linear (A straight line function where activation is proportional to input ( which is the weighted sum from neuron ))
+   > a.    Linear (A straight line function where activation is proportional to input ( which is the weighted sum from neuron ))
 
-      b.    ELU (Exponential Linear Unit)
+   > b.    ELU (Exponential Linear Unit)
 
-      c.    ReLU (Rectified Linear Units)
+   > c.    ReLU (Rectified Linear Units)
 
-      d.    LeakyReLU (variant of ReLU)
+   > d.    LeakyReLU (variant of ReLU)
 
-      e.    Sigmoid (between 0 and 1)
+   > e.    Sigmoid (between 0 and 1)
 
-      f.    Tanh (number to the range [-1, 1])
+   > f.    Tanh (number to the range [-1, 1])
 
-      g.    Softmax(Softmax function calculates the probabilities distribution of the event over ‘n’ different events)
+   > g.    Softmax (Softmax function calculates the probabilities distribution of the event over ‘n’ different events)
 
 7. **Node:** A deep learning node is "a *computational unit* that has one or more weighted input connections, a transfer function that combines the inputs in some way, and an output connection. Nodes are then organized into layers to comprise a network
 
